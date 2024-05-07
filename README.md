@@ -1,1 +1,1 @@
-# library
+# библиотека на python Django
